@@ -1,1 +1,1 @@
-Yang saya tambahin adalah logo polban, orang diatas rakit (keadaan diam), pengendali kecepatan benda langit (awan), kecepatan Waktu (agar matahari dan bulannya cepat), dan arah matahari bisa manual tapi waktunya tidak berjalan saat manual
+Yang saya tambahkan adalah logo polban, orang diatas rakit (keadaan diam), pengendali kecepatan benda langit (awan), kecepatan Waktu (agar matahari dan bulannya cepat), dan arah matahari bisa manual tapi waktunya tidak berjalan saat manual
